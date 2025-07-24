@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Base Colors (Used across the app for fundamental UI elements) -->
+    <color name="high_contrast_black">#000000</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="primary_white">#FFFFFF</color> <!-- for primary backgrounds -->
+    <color name="gray">#888888</color> <!-- for secondary text or icons -->
+    <color name="dark_gray">#757575</color> <!-- for text or UI elements -->
+    <color name="gray_text">#808080</color> <!-- Gray specifically for text -->
+    <color name="lightGray">#DDDDDD</color> <!-- for borders or subtle backgrounds -->
+
+    <!-- App Theme Colors (Primary, Secondary, and Accent colors for branding) -->
+    <color name="primaryColor">#87CEEB</color>
+    <color name="secondaryColor">#FCE4EC</color>
+    <color name="accentColor">#FF4081</color>
+    <color name="primary">#6200EE</color>
+    <color name="primaryDark">#3700B3</color>
+    <color name="accent">#03DAC5</color>
+    <color name="PprimaryColor">#1976D2</color>
+    <color name="primary_blue">#1976D2</color> <!-- used for primary UI elements -->
+    <color name="secondary_blue">#42A5F5</color> <!-- for secondary UI elements -->
+    <color name="AaccentColor">#FF9800</color> <!-- Orange accent for highlights (newer definition) -->
+
+    <!-- Background Colors (Used for screens and sections) -->
+    <color name="background">#E3F2FD</color> <!-- Light blue background for general app screens -->
+    <color name="home_background">#E3F2FD</color> <!-- Same as background, specifically for HomeActivity -->
+    <color name="light_blue">#B3E0FF</color> <!-- Light blue for backgrounds (e.g., screens like SearchActivity) -->
+    <color name="light_pink">#FFE6E6</color> <!-- Light pink for alternative backgrounds -->
+    <color name="launchScreenBackground">#6200EE</color> <!-- Purple background for the launch screen -->
+    <color name="profile_bg">#E0E0E0</color> <!-- Light gray background for profile screens -->
+    <color name="stats_bg">#F5F5F5</color> <!-- Very light gray for stats sections -->
+    <color name="search_bar_background">#F5F5F5</color> <!-- Light gray for search bar background -->
+
+    <!-- Button Colors (Used for buttons across the app) -->
+    <color name="colorButton">#FF6200EE</color> <!-- Purple for button backgrounds -->
+    <color name="colorButtonText">#FFFFFF</color> <!-- White for button text -->
+    <color name="pink_button">#D38AB0</color> <!-- Pink for specific buttons -->
+
+    <!-- Text and Hint Colors (Used for text fields and labels) -->
+    <color name="text_color_primary">#000000</color> <!-- Black for primary text -->
+    <color name="hint_color">#666666</color> <!-- Dark gray for hint text in input fields -->
+
+    <!-- Accent Colors for States (Success, Error, etc.) -->
+    <color name="accent_green">#4CAF50</color> <!-- Green for success states (e.g., deadlines) -->
+    <color name="accent_red">#F44336</color> <!-- Red for error states or warnings -->
+    <color name="green">#4CAF50</color> <!-- used for success indicators -->
+    <color name="top_jobs_color">#4CAF50</color> <!-- Green for top jobs section  -->
+    <color name="hot_jobs_color">#F44336</color> <!-- Red for hot jobs section -->
+
+    <!-- Navigation Colors (Used for bottom navigation and nav items) -->
+    <color name="bottom_nav_color">#757575</color> <!-- for bottom navigation icons and text -->
+    <color name="nav_item_color">#000000</color> <!-- Black for navigation item text/icons -->
+</resources>

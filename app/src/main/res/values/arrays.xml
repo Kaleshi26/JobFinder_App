@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Job Category Array -->
+    <string-array name="job_category">
+        <item>Software Engineering</item>
+        <item>Data Science</item>
+        <item>Marketing</item>
+        <item>Finance</item>
+        <item>Human Resources</item>
+    </string-array>
+
+    <!-- Job Level Array -->
+    <string-array name="job_level">
+        <item>Internship</item>
+        <item>Entry Level</item>
+        <item>Mid Level</item>
+        <item>Senior Level</item>
+        <item>Executive</item>
+    </string-array>
+
+    <!-- Education Levels Array -->
+    <string-array name="education_levels">
+        <item>High School</item>
+        <item>Associate Degree</item>
+        <item>Bachelor s Degree</item>
+        <item>Master s Degree</item>
+        <item>PhD</item>
+    </string-array>
+
+    <!-- Industries Array -->
+    <string-array name="industries">
+        <item>Technology</item>
+        <item>Healthcare</item>
+        <item>Finance</item>
+        <item>Education</item>
+        <item>Manufacturing</item>
+    </string-array>
+
+</resources>

@@ -1,0 +1,295 @@
+<resources>
+
+    <string name="enter_full_name">Enter your full name</string>
+    <string name="enter_email">Enter your email</string>
+    <string name="enter_password">Enter password</string>
+    <string name="confirm_password">Confirm password</string>
+    <string name="register">Register</string>
+    <string name="sign_in">Already have an account? sign in</string>
+    <string name="content_description_registration_image">Registration Image</string>
+
+
+    <!-- New strings for sign-in activity -->
+    <string name="sign_in_image_desc">Sign In Illustration</string>
+    <string name="Enter_email">Enter your email</string>
+    <string name="Enter_password">Enter password</string>
+    <string name="Sign_in">Sign in</string>
+    <string name="Sign_up_text">Don t have an account? Sign Up</string>
+
+
+    <string name="app_name">JobSea</string>
+    <string name="no_jobs_applied">You have not applied to any jobs yet</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_matched_jobs">Matched Jobs</string>
+    <string name="nav_search">Search</string>
+    <string name="nav_status">My Status</string>
+    <string name="nav_profile">My Profile</string>
+
+
+    <string name="user_profile_image">User profile image</string>
+    <string name="jobs_applied">Jobs Applied</string>
+    <string name="profile_visits">Profile Visits</string>
+    <string name="cv_downloads">CV Downloads</string>
+    <string name="preview_profile">Preview Profile</string>
+    <string name="download_cv">Download CV</string>
+    <string name="phone_number">Phone: +94779235664</string>
+    <string name="address">Address: 145A, New York, USA</string>
+    <string name="birthday">Birthday: 2000/08/30</string>
+    <string name="gender">Gender: Female</string>
+    <string name="work_experience">Work Experience</string>
+    <string name="company_facebook">Facebook, New York</string>
+    <string name="address_facebook">64-75 Austin St Unit 7A, Rego Park, New York</string>
+    <string name="company_lenovo">Lenovo, New York</string>
+    <string name="address_lenovo">84-66 Sebestian St Unit 9A, Tont Park, New York</string>
+    <string name="update_button">Click to see Update your Details</string>
+
+
+
+    <string name="matched_jobs">Matched Jobs for you</string>
+    <string name="junior_architect">Junior Architect - Chipotle</string>
+    <string name="entry_level">Under Graduate(Bachelor), Entry Level</string>
+    <string name="salary_1">LKR 20000.0 - 42000.0</string>
+    <string name="deadline_4_days">🔥 Deadline 4 days from now</string>
+
+    <string name="draftperson">Draftperson - Googler</string>
+    <string name="senior_level">Under Graduate(Bachelor), Senior Level</string>
+    <string name="salary_2">LKR 80000.0 - 92000.0</string>
+    <string name="deadline_20_days">🔥 Deadline 20 days from now</string>
+
+    <string name="senior_designer">Senior Interior Designer - HP Company</string>
+    <string name="mid_level">Under Graduate(Bachelor), Mid Level</string>
+    <string name="not_disclosed">Not Disclosed</string>
+    <string name="deadline_10_days">🔥 Deadline 10 days from now</string>
+
+
+
+    <string name="jobsea_logo_description">JobSea Logo</string>
+    <string name="jobsea">JobSea</string>
+    <string name="aim_higher">Aim Higher</string>
+    <string name="accounting_finance">Accounting / Finance</string>
+    <string name="banking_insurance">Banking / Insurance</string>
+    <string name="construction_engineering">Construction / Engineering</string>
+    <string name="graphics_creative">Graphics / Creative</string>
+    <string name="view_jobs_by_organization">View Jobs by Organization</string>
+    <string name="top_jobs">Top Jobs (92 vacancies)</string>
+    <string name="hot_jobs">Hot Jobs (192 vacancies)</string>
+    <string name="jobs_expiring_soon">Jobs Expiring Soon</string>
+
+
+    <!-- home -->
+
+    <string name="app_logo">App Logo</string>
+    <string name="browse_jobs">Browse Jobs by Category</string>
+    <string name="category_graphics">Graphics / Creative</string>
+    <string name="jobs_by_org">View Jobs by Organization</string>
+    <string name="Top_jobs">Top Jobs</string>
+    <string name="Hot_jobs">Hot Jobs</string>
+    <string name="jobs_expiring">Jobs Expiring Soon</string>
+
+
+
+    <string name="applied_jobs">My Applied Jobs</string>
+    <string name="job1_title">Software Engineer</string>
+    <string name="job1_company">Google Inc.</string>
+    <string name="job1_status">Status: Interview Scheduled</string>
+    <string name="job2_title">UI/UX Designer</string>
+    <string name="job2_company">Microsoft</string>
+    <string name="job2_status">Status: Application Under Review</string>
+
+
+
+
+    <string name="profile_icon">Profile Icon</string>
+    <string name="browse_jobs_category">Browse Jobs by Category</string>
+    <string name="ccategory_finance">Finance</string>
+    <string name="ccategory_banking">Banking</string>
+    <string name="ccategory_construction">Construction</string>
+    <string name="ttop_jobs">Top Jobs</string>
+    <string name="hhot_jobs">Hot Jobs</string>
+    <string name="job_image_description">Image representing the job</string>
+    <string name="jobs_for_you">Jobs for You</string>
+    <string name="company_veritacore">Veritacore</string>
+    <string name="bim_mep_modeling_specialist">BIM MEP Modeling Specialist</string>
+    <string name="active_switch">Actively Seeking for Job? turn on the button to receive 4x attention</string>
+
+    <string name="category_finance">Finance</string>
+    <string name="category_banking">Banking</string>
+    <string name="category_construction">Construction</string>
+    <string name="category_architecture">Architecture</string>
+    <string name="category_commercial">Commercial</string>
+    <string name="category_graphic_designing">Graphic Designing</string>
+
+
+    <!-- Onboarding Screen 1 -->
+    <string name="onboarding_title_1">Find Your Dream Job</string>
+    <string name="onboarding_description_1">Search thousands of job listings in various industries and apply with just a few taps.</string>
+
+    <!-- Onboarding Screen 2 -->
+    <string name="onboarding_title_2">Apply and Track Your Applications Easily</string>
+    <string name="onboarding_description_2">Apply with one click and track your job search in real-time, from applications to interview updates.</string>
+
+    <!-- Common Strings -->
+    <string name="get_started">Get Started</string>
+    <string name="onboarding_image_desc">Illustration of job application tracking</string>
+    <string name="skip_now">Skip Now</string>
+    <string name="next_button">Next</string>
+
+
+    <!-- Profile Card -->
+    <string name="user_name">Nethmi Gunarathne</string> <!-- Placeholder, replace with dynamic data -->
+    <string name="user_title">Software Engineer</string> <!-- Placeholder, replace with dynamic data -->
+
+    <!-- Stats -->
+    <string name="jobs_applied_count">12</string> <!-- Placeholder, replace with dynamic data -->
+
+    <string name="profile_visits_count">45</string> <!-- Placeholder, replace with dynamic data -->
+    <string name="cv_downloads_count">8</string> <!-- Placeholder, replace with dynamic data -->
+
+    <!-- Personal Info -->
+    <string name="personal_info">Personal Information</string>
+
+    <string name="email_address">johndoe@example.com</string> <!-- Placeholder, replace with dynamic data -->
+    <string name="location">San Francisco, CA</string> <!-- Placeholder, replace with dynamic data -->
+
+    <!-- Work Experience -->
+
+    <string name="job_title_1">Senior Developer</string> <!-- Placeholder, replace with dynamic data -->
+    <string name="company_1">Facebook • 2020 - Present</string> <!-- Placeholder, replace with dynamic data -->
+    <string name="job_title_2">Junior Developer</string> <!-- Placeholder, replace with dynamic data -->
+    <string name="company_2">Lenovo • 2018 - 2020</string> <!-- Placeholder, replace with dynamic data -->
+
+    <!-- Buttons -->
+    <string name="edit_profile">Edit Profile</string>
+
+
+    <!-- Job 3 -->
+    <string name="job3_title">Cloud Engineer</string>
+    <string name="job3_company">Amazon</string>
+    <string name="job3_status">Interview Scheduled</string>
+
+    <!-- Job 4 -->
+    <string name="job4_title">Robotics Engineer</string>
+    <string name="job4_company">Tesla</string>
+    <string name="job4_status">Application Under Review</string>
+
+
+    <!-- Search Bar -->
+    <string name="search_icon">Search Icon</string>
+    <string name="filter_icon">Filter Icon</string>
+    <string name="search_hint">Search for jobs, companies, or keywords</string>
+
+    <!-- Recent Searches -->
+    <string name="recent_searches">Recent Searches</string>
+    <string name="clear_all">Clear All</string>
+    <string name="recent_search_1">Software Engineer</string>
+    <string name="recent_search_2">Google</string>
+    <string name="recent_search_3">Remote Jobs</string>
+
+    <!-- Filter Options -->
+    <string name="filter_options">Filter Options</string>
+
+    <!-- Suggested Jobs -->
+    <string name="suggested_jobs">Suggested Jobs</string>
+    <string name="preview_job1_title">Android Developer</string>
+    <string name="preview_job1_company">Google</string>
+    <string name="preview_job2_title">Cloud Architect</string>
+    <string name="preview_job2_company">Microsoft</string>
+
+
+
+    <string name="matched_jobs_count">Matched Jobs</string>
+    <string name="saved_jobs_count">Saved Jobs</string>
+    <string name="matched_jobs_for_you_title">Matched Jobs for You</string>
+    <string name="jobs_count">6 Jobs</string>
+
+    <!-- Job 1 -->
+    <string name="matched_job1_title">BIM MEP Modeling Specialist</string>
+    <string name="matched_job1_company">Veritacore</string>
+    <string name="matched_job1_education">Under Graduate (Bachelor)</string>
+    <string name="matched_job1_level">Mid Level</string>
+    <string name="matched_job1_salary">Not Disclosed</string>
+    <string name="matched_job1_location">Patan Dhoka, Lalitpur</string>
+    <string name="matched_job1_deadline">Deadline 31 days from now</string>
+
+    <!-- Job 2 -->
+    <string name="matched_job2_title">Drafter</string>
+    <string name="matched_job2_company">Floorpix Hub</string>
+    <string name="matched_job2_education">Higher Secondary (+2/A Levels/IB)</string>
+    <string name="matched_job2_level">Entry Level</string>
+    <string name="matched_job2_salary">Not Disclosed</string>
+    <string name="matched_job2_location">Lokanthali 1, Bhaktapur</string>
+    <string name="matched_job2_deadline">Deadline 13 days from now</string>
+
+    <!-- Job 3 -->
+    <string name="matched_job3_title">Architect</string>
+    <string name="matched_job3_company">KARU</string>
+    <string name="matched_job3_education">Under Graduate (Bachelor)</string>
+    <string name="matched_job3_level">Mid Level</string>
+    <string name="matched_job3_salary">Not Disclosed</string>
+    <string name="matched_job3_location">Kathmandu, Bāgmatī, Nepal</string>
+    <string name="matched_job3_deadline">Deadline 5 days from now</string>
+
+
+    <string name="home_app_name">JobSea</string>
+    <string name="home_app_logo">JobSea Logo</string>
+    <string name="home_view_all">View ALL</string>
+
+    <!-- Browse Jobs by Category -->
+    <string name="home_browse_jobs_category_title">Browse Jobs by Category</string>
+    <string name="home_category_accounting_finance">Accounting / Finance</string>
+    <string name="home_category_architecture_design">Architecture / Interior Desi...</string>
+    <string name="home_category_banking_insurance">Banking / Insurance </string>
+    <string name="home_category_construction_engineering">Construction / Engineering ...</string>
+    <string name="home_category_commercial_logistics">Commercial / Logistics </string>
+    <string name="home_category_creative_graphics">Creative / Graphics / D...</string>
+
+    <!-- View Jobs by Organization -->
+    <string name="home_view_jobs_by_organization">View JOBS by ORGANIZATION</string>
+    <string name="home_new_label">New</string>
+
+    <!-- Actively Seeking for Job -->
+    <string name="home_actively_seeking_title">Actively Seeking for Job?</string>
+    <string name="home_actively_seeking_description">Turn on “Actively seeking button” to be widely visible and receive 4x employer attention on your applied jobs.</string>
+    <string name="home_switch_no">No</string>
+
+    <!-- Top/Hot Jobs -->
+    <string name="home_top_jobs_title">Top Jobs</string>
+    <string name="home_top_jobs_count">106 vacancies</string>
+    <string name="home_hot_jobs_title">Hot Jobs</string>
+    <string name="home_hot_jobs_count">206 vacancies</string>
+
+    <!-- Jobs Expiring Soon -->
+    <string name="home_jobs_expiring_soon_title">Jobs Expiring Soon</string>
+    <string name="home_expiring_job_title">Primary School Teacher (Lumbini)</string>
+    <string name="home_expiring_job_company">An International-based School</string>
+    <string name="home_expiring_job_education">Graduate (Masters)</string>
+    <string name="home_expiring_job_level">Mid Level</string>
+    <string name="home_expiring_job_salary">NRs 50000.0 - 80000.0 Monthly</string>
+    <string name="home_expiring_job_location">Lumbini, Ne...</string>
+    <string name="home_expiring_job_deadline">Deadline 17 minutes from now</string>
+
+    <!-- Rojgari Jobs -->
+    <string name="home_rojgari_jobs_title">Rojgari Jobs</string>
+    <string name="home_rojgari_job1_title">Waiter/Waitress</string>
+    <string name="home_rojgari_job1_count">66</string>
+    <string name="home_rojgari_job2_title">Cook</string>
+    <string name="home_rojgari_job2_count">37</string>
+
+    <!-- Recent Events -->
+    <string name="home_recent_events_title">Recent Events</string>
+    <string name="home_event1_title">Teaching Reinvented: AI...</string>
+    <string name="home_event2_title">Youth HackFest 2025</string>
+
+    <string name="onboard_job_search_image_desc">Job Search Illustration</string>
+    <string name="onboard_welcome_title">Welcome to JobSea</string>
+    <string name="onboard_welcome_description">Discover thousands of job opportunities tailored just for you. Start your journey to a dream career today!</string>
+    <string name="onboard_skip_now">Skip</string>
+    <string name="onboard_next_button">Next</string>
+
+    <string name="onboard_job_search_image_desc_2">Job Application Illustration</string>
+    <string name="onboard_title_2">Apply with Ease</string>
+    <string name="onboard_description_2">Easily apply to jobs with a single tap. Let employers find you with JobSea’s smart matching!</string>
+    <string name="onboard_get_started">Get Started</string>
+
+
+</resources>
