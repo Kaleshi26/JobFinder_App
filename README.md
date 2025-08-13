@@ -1,5 +1,9 @@
 # 📱 JobSea – Job Search & Career Management App (UI Design)
 
+![Kotlin](https://img.shields.io/badge/Kotlin-Android_Studio-orange?style=for-the-badge&logo=kotlin)
+![Status](https://img.shields.io/badge/Type-UI_Only-lightgrey?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
+
 > **JobSea** is a modern mobile app UI concept built in **Android Studio (Kotlin)** to help users browse and search for jobs with an intuitive and visually appealing interface.  
 > This project focuses purely on **UI/UX design** — no backend integration.
 
