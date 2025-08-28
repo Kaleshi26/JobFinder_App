@@ -38,3 +38,37 @@
 - **IDE:** Android Studio  
 - **Design Principles:** Material Design, 60-30-10 Color Rule  
 
+
+## 🔗 Figma Design & PDF
+- Figma (updated design): [View in Figma](https://www.figma.com/design/9aUBCO2ZSLV2UHZvpISDjq/Lab-exam-01?node-id=0-1&t=1K298T9Xrf3YOnLb-1)
+- PDF Export: [Download JobSea-UI.pdf](design/JobSea-UI.pdf)
+
+Note: The Figma design has changed slightly from the Android Studio implementation.
+
+<!-- Replace the placeholder link above and ensure design/JobSea-UI.pdf exists in your repo -->
+
+
+## 📸 Screenshots
+
+<p align="center">
+  <img src="screenshots/onboarding_1.png" alt="Onboarding 1" width="250" />
+  <img src="screenshots/onboarding_2.png" alt="Onboarding 2" width="250" />
+  <img src="screenshots/home.png" alt="Home" width="250" />
+</p>
+<p align="center">
+  <img src="screenshots/search.png" alt="Search" width="250" />
+  <img src="screenshots/filters.png" alt="Filters" width="250" />
+  <img src="screenshots/job_detail.png" alt="Job Detail" width="250" />
+</p>
+<p align="center">
+  <img src="screenshots/profile.png" alt="Profile" width="250" />
+  <img src="screenshots/status.png" alt="Status" width="250" />
+</p>
+
+<!-- Put your actual images in a /screenshots folder and update filenames if needed -->
+
+
+
+
+
+
