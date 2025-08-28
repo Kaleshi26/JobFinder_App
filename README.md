@@ -51,18 +51,19 @@ Note: The Figma design has changed slightly from the Android Studio implementati
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="screenshots/onboarding_1.png" alt="Onboarding 1" width="250" />
-  <img src="screenshots/onboarding_2.png" alt="Onboarding 2" width="250" />
-  <img src="screenshots/home.png" alt="Home" width="250" />
+  <img src="onboardings.png" alt="LoadingScreens" width="250" />
+  <img src="on boarding.png" alt="Onboarding" width="250" />
+  <img src="signup and signin.png" alt="SignUp and SignIn" width="250" />
 </p>
 <p align="center">
-  <img src="screenshots/search.png" alt="Search" width="250" />
-  <img src="screenshots/filters.png" alt="Filters" width="250" />
-  <img src="screenshots/job_detail.png" alt="Job Detail" width="250" />
+  <img src="home.png" alt="home1" width="250" />
+  <img src="home2.png" alt="home2" width="250" />
+  <img src="search.png" alt="Search" width="250" />
+  <img src="matched jobs.png" alt="Matched Jobs" width="250" />
 </p>
 <p align="center">
-  <img src="screenshots/profile.png" alt="Profile" width="250" />
-  <img src="screenshots/status.png" alt="Status" width="250" />
+  <img src="profile.png" alt="Profile" width="250" />
+  <img src="my status.png" alt="Status" width="250" />
 </p>
 
 <!-- Put your actual images in a /screenshots folder and update filenames if needed -->
