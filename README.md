@@ -53,7 +53,7 @@ Note: The Figma design has changed slightly from the Android Studio implementati
 <p align="center">
   <img src="onboarding.png" alt="LoadingScreens" width="500" />
   <img src="on boarding .png" alt="Onboarding" width="400" />
-  <img src="signup and signin.png" alt="SignUp and SignIn" width="250" />
+  <img src="signup and signin.png" alt="SignUp and SignIn" width="400" />
 </p>
 <p align="center">
   <img src="home.png" alt="home1" width="250" />
