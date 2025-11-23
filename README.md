@@ -42,6 +42,7 @@
 ## 🔗 Figma Design & PDF
 - Figma (updated design): [View in Figma](https://www.figma.com/design/9aUBCO2ZSLV2UHZvpISDjq/Lab-exam-01?node-id=0-1&t=1K298T9Xrf3YOnLb-1)
 - PDF Export: [Download JobSea-UI.pdf](JobSea-UI.pdf)
+- prototype link - [figma](https://www.figma.com/proto/9aUBCO2ZSLV2UHZvpISDjq/Lab-exam-01?node-id=0-1&t=TZVlovyMJA1m8EBX-1)
 
 Note: The Figma design has changed slightly from the Android Studio implementation.
 
